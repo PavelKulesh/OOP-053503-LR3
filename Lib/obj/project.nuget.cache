@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "d7AOVRGGiSdqDl/NJwDJJMXhoXnu2yYiDlr/9ERi5VL2iCabFAfbTAx5QbQZoGzQUOSUx/T8D+/k0ceuefCr4Q==",
+  "success": true,
+  "projectFilePath": "C:\\ООП\\LR2\\Painting\\Lib\\Lib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\uladl\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\uladl\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

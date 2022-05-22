@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0k1stGUMWTMsUOV59jTrBSlp8Y2nwz852q69kUMH2IkjxF1RsgEbGiZ2YPLAUY/j43WFhT0CUjhBrY6fozDMOA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pavel\\Desktop\\LR3\\Painting\\PluginInterface\\PluginInterface.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pavel\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\pavel\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
